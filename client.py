@@ -1,5 +1,4 @@
-import socket
-from tkinter import messagebox
+
 
 
 # envoie un message au serveur et retourne sa réponse
