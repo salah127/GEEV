@@ -4,7 +4,7 @@ from tkinter import filedialog
 from recherche import *
 from compte import *
 
-
+    
 # initialisation de la fenêtre graphique
 def init(window):
     window.title("Geev - Chargement...")
