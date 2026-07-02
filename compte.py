@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 from modifier import Modifier
 from donnees import *
 from client import *   
-import re
+import re   
 
 
 largeur, hauteur = 1000, 600
