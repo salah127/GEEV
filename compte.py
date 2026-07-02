@@ -9,7 +9,7 @@ import re
 
 
 largeur, hauteur = 1000, 600
-cx, cy = largeur/2, hauteur/2
+cx, cy = largeur/2, hauteur/2   
 
 
 # gestion des pages liées au compte
