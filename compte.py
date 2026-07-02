@@ -12,7 +12,7 @@ largeur, hauteur = 1000, 600
 cx, cy = largeur/2, hauteur/2   
 
 
-# gestion des pages liées au compte
+# gestion des pages liées au compte 
 class Compte:
     def __init__(self, canevas, menu, page_livre):
         self.menu = menu
