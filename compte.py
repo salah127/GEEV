@@ -8,7 +8,7 @@ from client import *
 import re   
  
 
-largeur, hauteur = 1000, 600
+largeur, hauteur = 1000, 600 
 cx, cy = largeur/2, hauteur/2   
 
 
